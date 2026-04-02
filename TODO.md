@@ -1,0 +1,3 @@
+- [x] Create app/sitemap-static.xml/route.js for static pages
+- [x] Create app/sitemap-tags.xml/route.js to fetch and list all tags
+- [x] Create app/sitemap-pornstars.xml/route.js to fetch and list all pornstars
